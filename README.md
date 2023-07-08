@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stefan</h1>
-<h3 align="center">A web developer and construction technician from Austria 🇦🇹</h3>
+<h3 align="center">A web developer and construction technician from Austria 🇦🇹 who loves to build 🔨 things</h3>
 
 - 🔭 I’m currently working on [FitTRACK](https://github.com/stefanselic/fittrack-app)
 
