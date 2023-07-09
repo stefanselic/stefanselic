@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [FitTRACK](https://github.com/stefanselic/fittrack-app)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Next.JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/stefanselic?tab=repositories&sort=stargazers&type=source](https://github.com/stefanselic?tab=repositories&sort=stargazers&type=source)
 
